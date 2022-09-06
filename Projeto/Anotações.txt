@@ -1,0 +1,13 @@
+			       <<<O que aprendi>>>
+Comandos básicos no Git Bash:
+	> git clone "link do repositório no github": faz uma cópia do seu 
+	repositório no github na sua máquina;
+	> cd nome do diretório: entra no diretório;
+	> git status: mostra o status atual;
+	> git add . : adiciona todos os arquivos lá;
+	> git commit -m "mensagem desejada": Cria um commit para o arquivo 
+	adicionado no git add.;
+	> git push origin main: envia todos os commits locais para a nuvem
+	/para o GitHub; 
+	 
+	
